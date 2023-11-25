@@ -10,7 +10,7 @@ familiar with [Git and Repo](https://source.android.com/setup/build/downloading)
  To initialize your local repository, use command:
 
 ```bash
-repo init -u https://github.com/PixelOS-AOSP/manifest.git -b thirteen
+repo init -u https://github.com/KanojoOS/manifesto.git -b thirteen
 ```
 
 Then sync up:
@@ -30,11 +30,11 @@ Building the System
 Lunch your device after cloning all device sources if needed.
 
 ```bash
-lunch aosp_devicecodename-buildtype
+lunch kanojo_devicecodename-buildtype
 ```
 
 Start compilation
 
 ```bash
-make bacon
+make kanojo
 ```
