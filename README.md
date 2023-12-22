@@ -1,4 +1,4 @@
-<img src="https://github.com/KanojoOS/official_devices/blob/thirteen/banners/latest.png?raw=true">
+<img src="https://github.com/PixelOS-AOSP/official_devices/blob/thirteen/banners/latest.png?raw=true">
 
 # Kanojo OS
 
