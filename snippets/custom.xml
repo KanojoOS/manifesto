@@ -7,7 +7,7 @@
 
   <remote  name="Kanojo"
            fetch="https://github.com/KanojoOS"
-           revision="refs/heads/ThornPrincess" />
+           revision="refs/heads/thirteen" />
 
   <remote  name="PixelOS-Gitlab"
            fetch="https://gitlab.com/PixelOS-AOSP"
