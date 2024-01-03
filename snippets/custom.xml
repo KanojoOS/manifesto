@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  
+    <remote  name="PixelOS"
+           fetch="https://github.com/PixelOS-AOSP"
+           revision="refs/heads/thirteen" />
 
   <remote  name="Kanojo"
            fetch="https://github.com/KanojoOS"
