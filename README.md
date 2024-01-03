@@ -10,13 +10,13 @@ familiar with [Git and Repo](https://source.android.com/setup/build/downloading)
  To initialize your local repository, use command:
 
 ```bash
-repo init -u https://github.com/KanojoOS/manifesto.git -b thirteen
+repo init --depth=1 --no-repo-verify -u https://github.com/KanojoOS/manifesto.git -b ThornPrincess -g default,-mips,-darwin,-notdefault
 ```
 
 Then sync up:
 
 ```bash
-repo sync
+repo sync -c --no-clone-bundle --no-tags --optimized-fetch --prune --force-sync -j8
 ```
 
 Building the System
