@@ -72,7 +72,7 @@
 
   <!-- Packages -->
   <project path="packages/apps/ParanoidSense" name="packages_apps_ParanoidSense" remote="PixelOS-Gitlab" />
-  <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="Kanojo" />
+  <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="PixelOS" />
   <project path="packages/apps/Updates" name="packages_apps_Updates" remote="PixelOS" />
 
   <!-- Vendor -->
