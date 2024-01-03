@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <remote  name="PixelOS"
-           fetch="https://github.com/PixelOS-Fourteen"
-           revision="refs/heads/fourteen-qpr1" />
-
   <remote  name="Kanojo"
            fetch="https://github.com/KanojoOS"
-           revision="refs/heads/thirteen" />
+           revision="refs/heads/ThornPrincess" />
 
   <remote  name="PixelOS-Gitlab"
            fetch="https://gitlab.com/PixelOS-AOSP"
