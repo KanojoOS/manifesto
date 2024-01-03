@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   
-    <remote  name="PixelOS"
+  <remote  name="PixelOS"
            fetch="https://github.com/PixelOS-AOSP"
            revision="refs/heads/thirteen" />
 
